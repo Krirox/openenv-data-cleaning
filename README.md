@@ -42,7 +42,6 @@ docker run -p 7860:7860 data-cleaning-env
 ```
 
 ## Structure
-
 ```
 ├── data_cleaning_env.py    # environment (reset/step/state)
 ├── inference.py            # agent loop
