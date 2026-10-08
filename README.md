@@ -11,6 +11,7 @@ tags: [openenv, reinforcement-learning, data-engineering]
 
 An [OpenEnv](https://github.com/openenv-org/openenv) environment for training RL agents on SQL data cleaning tasks. The agent works with a SQLite database and issues queries to fix data quality issues like duplicates, inconsistent formatting, and missing values.
 
+
 ## Tasks
 
 | Level | Task | What the agent needs to do |
