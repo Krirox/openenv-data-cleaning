@@ -20,6 +20,7 @@ An [OpenEnv](https://github.com/openenv-org/openenv) environment for training RL
 | Medium | Standardization | Normalize emails in `contacts` — trim whitespace, lowercase |
 | Hard | Imputation | Fill NULL salaries in `employees` with department averages |
 
+
 ## Setup
 
 ```bash
