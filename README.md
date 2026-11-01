@@ -22,6 +22,7 @@ An [OpenEnv](https://github.com/openenv-org/openenv) environment for training RL
 | Hard | Imputation | Fill NULL salaries in `employees` with department averages |
 
 
+
 ## Setup
 
 ```bash
